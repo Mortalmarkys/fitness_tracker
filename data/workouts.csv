@@ -1,0 +1,31 @@
+date,type,duration_min,distance_km,calories,heart_rate_avg,notes
+2024-01-03,Running,35,5.2,320,145,Morning run
+2024-01-05,Cycling,60,18.5,480,130,Weekend ride
+2024-01-07,Swimming,45,2.0,410,138,Pool session
+2024-01-09,Running,28,4.1,255,150,Easy pace
+2024-01-11,Gym,50,0.0,380,120,Chest and back
+2024-01-14,Running,42,6.3,390,148,Tempo run
+2024-01-16,Cycling,75,22.0,560,135,Long ride
+2024-01-18,Swimming,40,1.8,370,140,Technique focus
+2024-01-20,Gym,55,0.0,400,118,Legs day
+2024-01-22,Running,30,4.5,280,152,Intervals
+2024-02-01,Running,38,5.8,350,147,Back to routine
+2024-02-03,Cycling,50,15.0,420,128,City ride
+2024-02-05,Gym,60,0.0,430,122,Full body
+2024-02-07,Running,45,6.8,415,149,Long run
+2024-02-09,Swimming,50,2.2,450,136,Endurance
+2024-02-11,Running,32,4.8,300,151,Fast pace
+2024-02-14,Gym,45,0.0,360,119,Upper body
+2024-02-16,Cycling,90,27.0,640,133,Longest ride
+2024-02-18,Running,40,6.0,375,146,Morning
+2024-02-20,Swimming,35,1.5,315,142,Recovery swim
+2024-03-01,Running,44,6.6,410,148,Spring run
+2024-03-03,Gym,55,0.0,415,121,Push day
+2024-03-05,Cycling,65,19.5,510,131,Hills
+2024-03-07,Running,36,5.4,335,150,Steady
+2024-03-09,Swimming,45,2.0,405,139,Mixed strokes
+2024-03-11,Running,50,7.5,460,145,Personal best
+2024-03-13,Gym,60,0.0,440,123,Pull day
+2024-03-15,Cycling,70,21.0,540,134,Road trip
+2024-03-17,Running,33,5.0,310,153,Tired legs
+2024-03-19,Swimming,40,1.8,360,141,Cool down
